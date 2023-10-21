@@ -1,0 +1,11 @@
+/logs/*
+/saves/*
+/journeymap/data/*
+/config/worldedit/.archive-unpack/
+/*_cache/
+/*cache.json
+/options.txt
+/.curseclient
+/.fabric
+*.log
+!.gitkeep
