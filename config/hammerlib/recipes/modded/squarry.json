@@ -1,0 +1,19 @@
+{
+    "version": 2,
+    "active": {"minecraft:crafting": {
+        "squarry:fuel_quarry": true,
+        "squarry:upgrade_base": true,
+        "squarry:upgrade_filter": true,
+        "squarry:upgrade_silk": true,
+        "squarry:upgrade_auto_smelt": true,
+        "squarry:upgrade_filler": true,
+        "squarry:upgrade_fortune_1": true,
+        "squarry:upgrade_fortune_2": true,
+        "squarry:upgrade_fortune_3": true,
+        "squarry:upgrade_efficiency_1": true,
+        "squarry:upgrade_efficiency_2": true,
+        "squarry:upgrade_efficiency_3": true,
+        "squarry:powered_quarry": true
+    }},
+    "unregistered": {}
+}
